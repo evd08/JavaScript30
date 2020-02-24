@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
-  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+  /* background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center; */
+  background-image: url(/image/aurora_borealis_moon.jpg);
   background-size: cover;
 }
 
